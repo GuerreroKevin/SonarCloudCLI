@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\bin\Debug\net5.0\PruebaGestion.exe
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\bin\Debug\net5.0\PruebaGestion.deps.json
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\bin\Debug\net5.0\PruebaGestion.runtimeconfig.json
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\bin\Debug\net5.0\PruebaGestion.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\bin\Debug\net5.0\PruebaGestion.dll
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\bin\Debug\net5.0\ref\PruebaGestion.dll
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\bin\Debug\net5.0\PruebaGestion.pdb
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\PruebaGestion.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\PruebaGestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\PruebaGestion.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\PruebaGestion.AssemblyInfo.cs
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\PruebaGestion.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\PruebaGestion.dll
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\ref\PruebaGestion.dll
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\PruebaGestion.pdb
+C:\Users\sebas\source\repos\PruebaGestion\PruebaGestion\obj\Debug\net5.0\PruebaGestion.genruntimeconfig.cache
